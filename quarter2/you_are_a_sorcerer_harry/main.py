@@ -10,7 +10,7 @@ du monde magique de Harry Potter.
 # --------------------------------
 
 # Voici une liste des élèves de Poudlard
-eleves_poudlard = ["Harry Potter", "Hermione Granger", "Ron Weasley", "Draco Malfoy", 
+eleves_poudlard = ["Harry Potter", "Hermione Granger", "Ron Weasley", "Drago Malfoy", 
                   "Neville Londubat", "Luna Lovegood", "Ginny Weasley", "Cho Chang"]
 
 # TODO: Ajoutez "Cedric Diggory" à la liste des élèves
