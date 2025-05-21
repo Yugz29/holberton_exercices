@@ -5,23 +5,27 @@ Ce dépôt à pour objectif de proposer un exercice aux étudiants pour le conte
 
 Le dépôt est construit sur la hiérarchie suivante :
 
-ici insérer schéma de la hiérarchie
-- Dépot
-- trimestre
-- Concept
-- Exercice
+```
+holberton_exercices
+│   README.md
+│   .gitignore
+│
+└───quarter
+    │   main.py
+    │   README.md (instructions, informations et)
+```
 
 ## Quarter 1
 
-Ce dossier recense l'ensemble des exercices destinés à la pratique du langage C lors du premier trimestre.
+Ce dossier contient l'ensemble des exercices destinés à la pratique du langage C lors du premier trimestre.
 
 ## Quarter 2
 
-Ce dossier recense l'ensemble des exercices destinés à la pratique du langage Python lors du premier trimestre.
+Ce dossier contient l'ensemble des exercices destinés à la pratique du langage Python lors du premier trimestre.
 
 ## Quarter 3
 
-Ce dossier recense l'ensemble des exercices destinés à la pratique du langage Python lors du premier trimestre.
+Ce dossier contient l'ensemble des exercices destinés à la pratique du langage Python lors du premier trimestre.
 
 ## Running Tests
 
@@ -38,7 +42,3 @@ Soit vous n'avez pas inclut le shebang auquel cas executer
 ```
   python3 main.py
 ```
-
-## Authors
-
-- [@Heidge](https://github.com/Heidge)
