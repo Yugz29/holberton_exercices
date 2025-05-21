@@ -22,23 +22,22 @@ Ce dossier recense l'ensemble des exercices destinés à la pratique du langage 
 ## Quarter 3
 
 Ce dossier recense l'ensemble des exercices destinés à la pratique du langage Python lors du premier trimestre.
-## Installation
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
 ## Running Tests
 
-To run tests, run the following command
+Placez vous dans le dossier de l'exercice puis soit :
 
-```bash
-  npm run test
+Vous avez inclut le shebang python3 auquel cas executer
+
+```
+  ./main.py
 ```
 
+Soit vous n'avez pas inclut le shebang auquel cas executer
+
+```
+  python3 main.py
+```
 
 ## Authors
 
