@@ -15,7 +15,6 @@ L'exercice est centré autour de la création d'une classe `BaguetteMagique` ave
 2. **Constructeur et attributs d'instance**
    - Initialisation avec la maison et le propriétaire
    - Génération aléatoire des caractéristiques (bois, cœur, longueur)
-   - Choix de visibilité des attributs (publics ou privés)
 
 3. **Méthodes d'instance**
    - Lancement de sorts magiques (Expelliarmus, Avada Kedavra)
@@ -47,14 +46,3 @@ Le code fourni inclut des exemples de création de baguettes pour Harry Potter, 
 - [Real Python - Guide de la programmation orientée objet](https://realpython.com/python3-object-oriented-programming/)
 - [Python pour les nuls - Comprendre les classes et les objets](https://python.sdv.univ-paris-diderot.fr/15_classes/)
 - [Documentation sur le module random en Python](https://docs.python.org/fr/3/library/random.html)
-
-## Objectifs d'apprentissage
-
-À la fin de cet exercice, vous serez capable de:
-- Créer et utiliser des classes Python avec tous leurs composants essentiels
-- Comprendre le principe d'encapsulation et comment l'implémenter en Python
-- Gérer les exceptions et les restrictions conditionnelles dans une classe
-- Manipuler des attributs de classe et d'instance de manière appropriée
-- Utiliser l'aléatoire pour générer des valeurs dynamiques dans un programme
-
-Bon coding, et que la magie de Python soit avec vous!
