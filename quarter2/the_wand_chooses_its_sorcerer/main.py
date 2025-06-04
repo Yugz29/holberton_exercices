@@ -38,6 +38,7 @@ class BaguetteMagique:
         # À COMPLÉTER
         pass
     
+    
     def expelliarmus(self):
         """
         Méthode qui simule le sort Expelliarmus
