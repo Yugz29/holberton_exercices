@@ -90,13 +90,3 @@ Dans le fichier `gitignore-documentation`, inclure :
 17. **Quelle est la différence entre un chemin absolu (absolute path) et un chemin relatif (relative path) sous Linux ?**
 
 18. **Comment peut-on facilement identifier un chemin absolu ?**
-
----
-
-## Livrables attendus
-
-- Repository Git configuré avec les collaborateurs
-- README.md complet avec toutes les réponses
-- Fichier .gitignore configuré
-- Fichier gitignore-documentation avec explications
-- Historique Git propre avec des messages de commit appropriés
