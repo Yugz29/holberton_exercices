@@ -175,3 +175,7 @@ cython_debug/
 
 # Exercices solution file
 solution.py
+.DS_Store
+
+# Emacs copies
+*~
