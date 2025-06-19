@@ -12,14 +12,15 @@
  *
  **/
 
-Void multiply(int a, int b)
+void multiply(int a, int b)
 {
 	int result = a * b;
 
 	printf("%d\n", result);
 }
 
-int main(void)
+/**                                                                                                                
+ * main - prints Hello PLD !                                                                                      n(void)
 {
 	int number;
 
